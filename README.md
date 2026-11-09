@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,php,laravel,ts,js,vue,golang,java,python&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,docker,php,laravel,ts,js,vue,golang,java,python,rust&theme=light" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarongmx&show_icons=true&locale=en&layout=compact" alt="aarongmx" /></p>
